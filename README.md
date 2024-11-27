@@ -2,6 +2,8 @@
 
 Este proyecto es una simulación de un ransomware básico desarrollado como parte del examen final de la materia de Criptografía en la Universidad del Norte. **Nota: Este proyecto es únicamente con fines educativos. No se debe utilizar para actividades malintencionadas.**
 
+Link del Colab utilizado: https://colab.research.google.com/drive/18G-R4NaEM7OhRZfCMZfA-PolOArRNBct?usp=sharing#scrollTo=JxKdYfuuk3Wu
+
 ## Descripción
 
 El ransomware simula los siguientes pasos de operación:
